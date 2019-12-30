@@ -15,7 +15,9 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  # 
+  key => dog
+  value => bulldog
+  my_hash_creator : key => value
 end
 
 def read_from_hash(hash, key)
