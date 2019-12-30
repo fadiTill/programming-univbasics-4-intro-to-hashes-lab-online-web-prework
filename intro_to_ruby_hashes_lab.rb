@@ -30,4 +30,10 @@ def update_counting_hash(hash, key)
   # given a hash an a key as parameters, return an updated hash
   # if the provided key is not present in the hash, add it and assign it to the value of 1
   # if the provided key is present, increment its value by 1
-end
+  hash = 'apple'
+  key = 8
+   if update_counting_hash: apple => 7
+     puts apple = 1 
+   else apple =+1 
+   end 
+end 
